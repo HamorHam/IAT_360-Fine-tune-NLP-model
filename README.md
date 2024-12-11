@@ -63,3 +63,4 @@ Recall: Percentage of actual positives identified correctly.
 Confusion Matrix: Visual representation of classification errors.
 
 Link to the trained model on Google file: https://drive.google.com/drive/folders/1eWB3KeA26sXCcDg-VemX5n7YJ2cAcHYV?usp=sharing
+Dataset used: https://www.kaggle.com/datasets/praveengovi/emotions-dataset-for-nlp?resource=download
